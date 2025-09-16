@@ -1,3 +1,3 @@
 nginx
-wordprss
+wordpress
 mysql:8.0
