@@ -1,1 +1,1 @@
-eclipse-temurin:8-jdk
+nginx:1.21
